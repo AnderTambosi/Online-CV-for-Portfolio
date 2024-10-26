@@ -11,7 +11,7 @@ const Header: React.FC = () => {
             className="w-16 h-16 rounded-full border-4 border-white mr-4"
           />
           <div>
-            <h1 className="text-3xl font-bold">Seu Nome</h1>
+            <h1 className="text-3xl font-bold">Anderson Tambosi</h1>
             <p className="text-blue-200">Desenvolvedor Full Stack</p>
           </div>
         </div>
