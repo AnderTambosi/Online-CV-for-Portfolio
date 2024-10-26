@@ -6,7 +6,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 flex items-center justify-between max-w-4xl">
         <div className="flex items-center">
           <img
-            src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+            src="https://avatars.githubusercontent.com/u/25924665?v=4"
             alt="Seu Nome"
             className="w-16 h-16 rounded-full border-4 border-white mr-4"
           />
